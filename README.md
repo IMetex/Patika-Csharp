@@ -1,2 +1,2 @@
-# Patika-C-sharp-Course-Assignments-
+# Patika C# 
 Patika C# kursundaki verilen ödevler reposudur.
