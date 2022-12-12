@@ -1,0 +1,15 @@
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\bin\Debug\net6.0\AlgoritmaTask.exe
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\bin\Debug\net6.0\AlgoritmaTask.deps.json
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\bin\Debug\net6.0\AlgoritmaTask.runtimeconfig.json
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\bin\Debug\net6.0\AlgoritmaTask.dll
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\bin\Debug\net6.0\AlgoritmaTask.pdb
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\AlgoritmaTask.csproj.AssemblyReference.cache
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\AlgoritmaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\AlgoritmaTask.AssemblyInfoInputs.cache
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\AlgoritmaTask.AssemblyInfo.cs
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\AlgoritmaTask.csproj.CoreCompileInputs.cache
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\AlgoritmaTask.dll
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\refint\AlgoritmaTask.dll
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\AlgoritmaTask.pdb
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\AlgoritmaTask.genruntimeconfig.cache
+C:\Users\brsme\Desktop\Patika C# Ödevleri\AlgoritmaTask\obj\Debug\net6.0\ref\AlgoritmaTask.dll
